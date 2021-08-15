@@ -1,1 +1,1 @@
-web: gunicorn DjangoTicket.wsgi --log-file -
+web: gunicorn DjangoTicket.wsgi
